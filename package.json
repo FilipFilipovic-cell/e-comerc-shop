@@ -1,8 +1,17 @@
 {
-  "name": "default-project",
+  "name": "nova-ecommerce",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "NOVA — Premium production-ready e-commerce frontend. React 19 + Vite + React Router, dark/light, cart/wishlist, filters & search.",
   "type": "module",
+  "keywords": ["react", "vite", "ecommerce", "e-commerce", "react-router", "frontend", "portfolio", "shopping-cart"],
+  "author": "Filip Filipovic <https://github.com/FilipFilipovic-cell>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FilipFilipovic-cell/e-comerc-shop.git"
+  },
+  "homepage": "https://github.com/FilipFilipovic-cell/e-comerc-shop#readme",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
