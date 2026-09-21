@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" rx="24" fill="#fbfbfd"/>
+  <rect x="24" y="24" width="1152" height="60" rx="16" fill="white" stroke="#e9e9ec"/>
+  <rect x="44" y="42" width="36" height="24" rx="8" fill="#0a0a0a"/><text x="88" y="60" font-family="Inter" font-weight="800" font-size="16" fill="#0a0a0a">NOVA</text>
+  <text x="1020" y="60" font-family="Inter" font-size="12" fill="#6b7280">Home • Shop • Favorites</text>
+  <rect x="24" y="104" width="700" height="380" rx="20" fill="white" stroke="#e9e9ec"/>
+  <text x="48" y="140" font-family="Inter" font-weight="900" font-size="34" fill="#0a0a0a">DISCOVER</text>
+  <text x="48" y="175" font-family="Inter" font-weight="900" font-size="34" fill="#0a0a0a">YOUR STYLE</text>
+  <text x="48" y="205" font-family="Inter" font-size="12" fill="#6b7280">Premium products. Simple shopping.</text>
+  <rect x="48" y="230" width="110" height="34" rx="17" fill="#0a0a0a"/><text x="103" y="251" text-anchor="middle" font-family="Inter" font-weight="700" font-size="11" fill="white">Shop Now →</text>
+  <rect x="740" y="104" width="436" height="380" rx="20" fill="#eef2ff" stroke="#e9e9ec"/>
+  <text x="958" y="300" text-anchor="middle" font-family="Inter" font-size="13" fill="#6b7280">Hero product image</text>
+  <rect x="24" y="500" width="1152" height="150" rx="16" fill="white" stroke="#e9e9ec"/>
+  <text x="48" y="530" font-family="Inter" font-weight="800" font-size="14" fill="#0a0a0a">Featured Products</text>
+  <g><rect x="48" y="545" width="260" height="80" rx="12" fill="#f2f2f3" stroke="#e9e9ec"/><text x="178" y="590" text-anchor="middle" font-family="Inter" font-size="11" fill="#9ca3af">Product card</text></g>
+  <g><rect x="330" y="545" width="260" height="80" rx="12" fill="#f2f2f3" stroke="#e9e9ec"/><text x="460" y="590" text-anchor="middle" font-family="Inter" font-size="11" fill="#9ca3af">Product card</text></g>
+  <g><rect x="610" y="545" width="260" height="80" rx="12" fill="#f2f2f3" stroke="#e9e9ec"/><text x="740" y="590" text-anchor="middle" font-family="Inter" font-size="11" fill="#9ca3af">Product card</text></g>
+  <g><rect x="890" y="545" width="260" height="80" rx="12" fill="#f2f2f3" stroke="#e9e9ec"/><text x="1020" y="590" text-anchor="middle" font-family="Inter" font-size="11" fill="#9ca3af">Product card</text></g>
+</svg>

@@ -16,9 +16,9 @@
 
 | Home / Hero | Shop + Filters | Product Details |
 |---|---|---|
-| Hero, Featured, Categories | Search, Category/Price/Rating, Sort | Gallery, Qty, Wishlist, Related + Recently Viewed |
+| ![Home](public/screenshots/home.svg) | ![Shop](public/screenshots/shop.svg) | ![Product](public/screenshots/product.svg) |
 
-> Dodaj screenshot-ove u `public/screenshots/` i zameni tabelu slikama.
+> Placeholder SVG preview — zameni sa pravim PNG screenshot-ovima (`npm run dev` → screenshot) kad bude deploy. Fajlovi su u `public/screenshots/`.
 
 ---
 
